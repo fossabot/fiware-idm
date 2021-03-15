@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/github/license/ging/fiware-idm.svg)](https://opensource.org/licenses/MIT)
 [![Docker badge](https://img.shields.io/docker/pulls/fiware/idm.svg)](https://hub.docker.com/r/fiware/idm/)
 [![Support badge](https://img.shields.io/badge/tag-fiware-orange.svg?logo=stackoverflow)](https://stackoverflow.com/questions/tagged/fiware-keyrock)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fflopezag%2Ffiware-idm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fflopezag%2Ffiware-idm?ref=badge_shield)
 <br>
 [![Documentation](https://img.shields.io/readthedocs/fiware-idm.svg)](https://fiware-idm.readthedocs.io/en/latest/)
 [![CI](https://github.com/ging/fiware-idm/workflows/CI/badge.svg)](https://github.com/ging/fiware-idm/actions?query=workflow%3ACI)
@@ -240,3 +241,6 @@ follows:
 Keyrock is licensed under the [MIT](LICENSE) License.
 
 © 2018 Universidad Politécnica de Madrid.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fflopezag%2Ffiware-idm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fflopezag%2Ffiware-idm?ref=badge_large)
